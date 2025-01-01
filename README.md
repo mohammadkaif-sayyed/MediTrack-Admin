@@ -5,9 +5,6 @@ IDURAR is Open Source ERP/CRM (Invoice / Inventory / Accounting / HR) Based on M
 
 
 
-#
-[![
-IDURAR is Open Source ERP/CRM (Invoice / Inventory / Accounting / HR) Based on Mern Stack (Node.js / Express.js / MongoDb / React.js )]
 
 
 
